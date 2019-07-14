@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Error.cpp
+  In.cpp
+  Log.cpp
+  LPLab10.cpp
+  Parm.cpp
+  Создание кода...
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/FORCE"
+LPLab10.obj : warning LNK4006: "struct Log::LOG Log::INITLOG" (?INITLOG@Log@@3ULOG@1@A) уже определен в Log.obj; второе определение пропущено
+Parm.obj : warning LNK4006: "struct Log::LOG Log::INITLOG" (?INITLOG@Log@@3ULOG@1@A) уже определен в Log.obj; второе определение пропущено
+D:\LP_Lab_10\Debug\LPLab10.exe : warning LNK4088: образ создается из-за параметра /FORCE; образ нельзя запустить
+  LPLab10.vcxproj -> D:\LP_Lab_10\Debug\LPLab10.exe
